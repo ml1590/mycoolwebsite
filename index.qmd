@@ -3,17 +3,35 @@ title: "About Me"
 about:
   id: me
   template: broadside
-  image: img/profile.png
+  image: img/profile.jpg
 ---
+
+Hello, my name is Max Lubelczyk, and I am a Senior at the University of 
+New Hampshire, studying sustainability and agricultural food systems 
+with an emphasis in marketing agricultural technology.  I will be graduating
+in December, and will be moving to North Carolina in January.
 
 :::{#me}
 
 ## Goals
+1. Move to Chapel Hill, NC
+
+2. Get a job in Medical Device Sales
+
+3. Get my MBA
 
 ## Education
+The University of New Hampshire 2023-2024
+
+The University of Tennessee 2020-2023
 
 ## Experience
+Pharmaceutical Technical Engineering and Validation Account Manager at ALKU,
+July 2024-September 2024
 
+Lab Technician at UNH Agroecology Lab, May 2023-January 2024 
+
+Student Sustainability Assistant at UTK Sustainability Lab, January 2023-January 2024
 :::
 
 Thanks for checking out my web site!

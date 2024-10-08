@@ -1,5 +1,33 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Hello, my name is Max Lubelczyk, and I am a Senior at the University of New Hampshire, studying sustainability and agricultural food systems with an emphasis in marketing agricultural technology. I will be graduating in December, and will be moving to North Carolina in January.\nThanks for checking out my web site!"
+  },
+  {
+    "objectID": "index.html#goals",
+    "href": "index.html#goals",
+    "title": "About Me",
+    "section": "Goals",
+    "text": "Goals\n\nMove to Chapel Hill, NC\nGet a job in Medical Device Sales\nGet my MBA"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "About Me",
+    "section": "Education",
+    "text": "Education\nThe University of New Hampshire 2023-2024\nThe University of Tennessee 2020-2023"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "About Me",
+    "section": "Experience",
+    "text": "Experience\nPharmaceutical Technical Engineering and Validation Account Manager at ALKU, July 2024-September 2024\nLab Technician at UNH Agroecology Lab, May 2023-January 2024\nStudent Sustainability Assistant at UTK Sustainability Lab, January 2023-January 2024"
+  },
+  {
     "objectID": "projects.html#project-2",
     "href": "projects.html#project-2",
     "title": "Projects",
@@ -12,12 +40,5 @@
     "title": "Projects",
     "section": "Project 3",
     "text": "Project 3"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "About Me",
-    "section": "",
-    "text": "Thanks for checking out my web site!"
   }
 ]
